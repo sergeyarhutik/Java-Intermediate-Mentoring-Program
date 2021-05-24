@@ -1,0 +1,3 @@
+INSERT INTO event (id, date_time, event_type, place, speaker, title) VALUES (11, '2021-05-10 10:12:22', 101, 'BY, Brest', 'Siarhei', 'Title');
+INSERT INTO event (id, date_time, event_type, place, speaker, title) VALUES (12, '2021-05-11 11:14:12', 102, 'BY, Brest', 'Alex', 'Thread');
+INSERT INTO event (id, date_time, event_type, place, speaker, title) VALUES (13, '2021-05-12 12:23:35', 103, 'BY, Brest', 'Somebody', 'Helping');
